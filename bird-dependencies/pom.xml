@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>bird-project</artifactId>
         <groupId>com.bird</groupId>
-        <version>1.0.3-SNAPSHOT</version>
+        <version>1.0.3</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -18,92 +16,92 @@
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-core</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-dubbo</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-eventbus-core</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-eventbus-kafka</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-eventbus-rabbit</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-gateway-registry-zookeeper</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-gateway-registry-redis</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-gateway-web</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-service-common</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-service-starter</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-common</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-file</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-starter</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-sso-core</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-sso-server</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-sso-client</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-web-sso-client-webflux</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
             <dependency>
                 <groupId>com.bird</groupId>
                 <artifactId>bird-trace-client</artifactId>
-                <version>1.0.3-SNAPSHOT</version>
+                <version>1.0.3</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
