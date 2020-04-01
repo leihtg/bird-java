@@ -90,6 +90,13 @@
         </dependency>
     </dependencies>
 
+    <scm>
+        <url>https://github.com/leihtg/bird-java.git</url>
+        <connection>scm:git:https://github.com/leihtg/bird-java.git</connection>
+        <developerConnection>scm:git:https://github.com/leihtg/bird-java.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
