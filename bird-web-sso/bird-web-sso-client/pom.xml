@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.bird</groupId>
             <artifactId>bird-web-sso-core</artifactId>
-            <version>${bird.version}</version>
+            <version>1.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
