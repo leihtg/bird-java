@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repo: https://github.com/leihtg/bird-java.git
-  branch: master
