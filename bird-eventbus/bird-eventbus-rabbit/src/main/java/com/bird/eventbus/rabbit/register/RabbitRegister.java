@@ -5,8 +5,8 @@ import com.bird.eventbus.register.IEventRegister;
 import com.bird.eventbus.register.IEventRegisterStore;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.amqp.rabbit.connection.CorrelationData;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
+import org.springframework.amqp.rabbit.support.CorrelationData;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**

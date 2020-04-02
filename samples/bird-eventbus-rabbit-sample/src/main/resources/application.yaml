@@ -1,0 +1,16 @@
+
+server:
+  port: 8083
+
+spring:
+  application:
+    name: bird
+
+bird:
+  eventbus:
+    rabbit:
+      address: 47.97.70.251:5672
+      virtualHost: oivib_test
+      user: admin
+      password: admin
+      listenerPackages: com.bird.eventbus.kafka.sample
